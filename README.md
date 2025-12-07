@@ -152,5 +152,110 @@ investors
 co-producers
 
 and future collaborators
+Final Song of the Poet — Two Canonical Performance Variants
 
+The project contains two officially approved versions of the Poet’s final song:
+
+1. The Extended Version (Version 2 — “Long Form”)
+
+A broad, symphonic reading of the finale, suitable for:
+
+large stages,
+
+concert performances,
+
+expanded orchestral scoring,
+
+productions emphasizing metaphysical scale.
+
+It preserves the full poetic arc and allows the music to unfold with depth and dramatic patience.
+This version conveys the cosmic dimension of the Poet’s journey — a finale not only of a man, but of an idea.
+
+2. The Shortened Version (Version 2 — “Stage Finale”)
+
+A concise, highly concentrated lyrical form, designed for:
+
+dramatic stage productions,
+
+mюsical-theatre pacing,
+
+narrative clarity,
+
+emotional purity,
+
+moments where music must “breathe” and carry the meaning.
+
+This version is considered the canonical finale for theatrical use.
+It preserves the essence of the Poet’s arc while offering a clear, resonant, and musically balanced ending.
+
+⭐ Why the Final Song Must Be Performed by a Female Voice (Artistic Rationale)
+
+The decision to use a female vocalist — instead of the Poet’s own voice — is not incidental.
+It represents one of the core metaphysical insights of the project:
+
+**The final words of the Poet are spoken not by the Poet,
+
+but by his Muse.**
+
+This artistic choice is justified by several layers:
+
+1. Symbolic Meaning
+
+The Muse becomes the voice of what survives the Poet:
+
+inspiration,
+
+memory,
+
+inner truth,
+
+the eternal source of his art.
+
+It is not a woman speaking —
+it is Poetry itself.
+
+2. Dramaturgical Impact
+
+By the end of the mюsical, the Poet has exhausted his earthly voice.
+The Muse completes his arc, delivering:
+
+the clarity he gained only by parting,
+
+the transformation of sorrow into creation,
+
+the acceptance of inspiration as a “sweet, poisoned cup.”
+
+Her singing finalizes his journey.
+
+3. Musical Logic
+
+A female voice provides:
+
+clarity,
+
+purity of timbre,
+
+a sense of transcendence,
+
+lightness over the harmonic texture.
+
+It elevates the finale from personal confession to universal statement.
+
+4. Cultural Resonance
+
+The artistic tradition of the Russian romance and Pushkinian lyricism often anchors the metaphysical voice in the feminine —
+as the whisper of destiny, the breath of inspiration, the echo of the heart’s highest truth.
+
+Thus, a female voice becomes not a character,
+but a timeless vessel.
+
+⭐ Conclusion
+
+Both versions of the finale (long and short) remain part of the official score.
+However:
+
+→ The Shortened Version 2 is the canonical theatrical finale.
+→ The final song must be performed by a female voice, representing the Muse.
+
+This dual structure strengthens the flexibility, artistic depth, and future adaptability of the entire project.
 (КОНЕЦ README)
